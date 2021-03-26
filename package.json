@@ -1,0 +1,15 @@
+{
+  "name": "lesson-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server"
+  },
+  "author": "Dele",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
